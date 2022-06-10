@@ -1,6 +1,6 @@
 # AutoML-for-IoT-Data-Analytics
 
-This code provides an Automated Machine Learning (AutoML) implementation for IoT data analytics problems. It provides a case study of IoT anomaly detection using more than 10 ML algorithms and more than 10 optimization/AutoML methods (for automating and optimizing ML algorithms). 
+This code provides an Automated Machine Learning (AutoML) implementation for IoT data analytics problems. It provides a case study of IoT anomaly detection using more than 10 ML algorithms and optimization/AutoML methods (for automating and optimizing ML algorithms). 
 
 The code will be shared in this repository once the paper is accepted.
 
